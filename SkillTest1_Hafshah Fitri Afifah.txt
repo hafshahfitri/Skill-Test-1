@@ -1,0 +1,4 @@
+Nama			: Hafshah Fitri Afifah
+Umur			: 23 Tahun
+Stack			: QA
+Bahasa Pemrograman	: Java, Python, PHP
